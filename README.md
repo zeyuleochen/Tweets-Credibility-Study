@@ -34,9 +34,8 @@ Twitter is a valuable but not wholly credible source for education due to the di
 
 ## Directory Structure
 
-- `/Author_Identification`: Scripts for identifying prolific and retweeted authors.
-- `/Geographical_Timeline_Analysis`: Code for geographical and timeline analyses.
-- `/Uniqueness_Tweets_Analysis`: Scripts for analyzing tweet uniqueness.
+- `/Final_Project_BDP_code`: Scripts for each step of the analysis, notebook without titles are testing.
+- `/pic`: Folders of Analytical graphs generated.
 
 ## Usage
 
